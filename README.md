@@ -20,7 +20,13 @@ Me encanta crear soluciones digitales eficientes y bien estructuradas que combin
 ---
 
 ### 📫 Cómo contactarme
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephpillapa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wilsonpillapa)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josephpillapa11@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/W1LSONN)
 
- 
+
+---
+### 🎯 Objetivos
+
+- 💡 Convertirme en un **desarrollador full-stack sólido**, con dominio tanto del backend como del frontend.  
+- 🧠 Profundizar en **buenas prácticas de ingeniería de software**, patrones de diseño y arquitecturas limpias.  
+
