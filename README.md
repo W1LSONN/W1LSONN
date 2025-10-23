@@ -1,6 +1,5 @@
 ## 👋 ¡Hola! Soy Wilson Pillapa
 
-
 # 💫 Sobre mí  
 Soy estudiante de **Ingeniería en Software**, apasionado por el desarrollo **backend y frontend**.  
 Desde que comencé en el mundo de la programación, me ha interesado entender cómo funcionan las cosas desde adentro y cómo puedo optimizarlas.  
