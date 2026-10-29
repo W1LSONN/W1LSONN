@@ -1,91 +1,60 @@
-<!-- BANNER CYBERPUNK / GLASSMORPHISM -->
+<!-- ENCABEZADO MINIMALISTA Y PROFESIONAL -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050811,40:0d1b2a,100:00e5ff&height=200&section=header&text=Wilson%20Pillapa&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%E2%9A%A1%20Software%20Engineer%20in%20Progress%20%7C%20Full%20Stack%20Architect%20%E2%9A%A1&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e2238,100:00bfff&height=210&section=header&text=Wilson%20Pillapa&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%9A%80%20Software%20Engineering%20Student%20%7C%20Backend%20%26%20Clean%20Architecture&descAlignY=58&descAlign=50" width="100%"/>
 </div>
 
-<!-- TEXTO MECANOGRAFIADO CON TINTES NEÓN -->
+<!-- TEXTO EN TIEMPO REAL -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=550&lines=%3C%2F%3E+Ingenier%C3%ADa+en+Software;Arquitecturas+Limpias+%26+Clean+Code;Backend+Especialista+%7C+Java+%26+PHP;Transformando+ideas+en+c%C3%B3digo+eficiente" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Ingenier%C3%ADa+en+Software;Especializ%C3%A1ndome+en+Backend+s%C3%B3lido;Clean+Code+%2B+Arquitecturas+Escalables;Java+%7C+PHP+%7C+MySQL+%7C+JavaScript" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=W1LSONN&label=%E2%9A%A1+VISITAS&color=00e5ff&style=for-the-badge" alt="Contador de visitas"/>
+  <img src="https://komarev.com/ghpvc/?username=W1LSONN&label=Visitas&color=00bfff&style=flat-square" alt="Visitas"/>
 </p>
 
 ---
 
-### 🖥️ `wilson@system:~$ neofetch`
-
-```bash
- _____________________       wilson@dev-station
-/\  _________________ \      ------------------
-\ \ \               / /      OS: Developer Engine v2.0 🇪🇨
- \ \ \   WILSON    / /       Kernel: Software Engineering Student
-  \ \ \  PILLAPA  / /        Focus: Backend Architecture & High Performance
-   \ \ \_________/ /         Tech Stack: Java, PHP, MySQL, JavaScript
-    \ \/__________/          Architecture: Clean Code, MVC, SOLID
-     \____________/          Status: 🚀 Construyendo proyectos escalables
-                             Quote: "La simplicidad es el requisito previo para la fiabilidad."
-```
-
----
-
-### 🐍 Contribution Snake (¡Mis commits en acción!)
+### 🐍 Snake Eating My Commits
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/W1LSONN/W1LSONN/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> *Nota: Abajo tienes las instrucciones de 2 pasos para activar la serpiente comiéndose tus commits automáticamente.*
-
 ---
 
-### 🧰 Arsenal Tecnológico
+### ⚡ Matriz de Habilidades & Arquitectura
 
 <div align="center">
 
-| Especialidad | Tecnologías |
-| :--- | :--- |
-| **Backend & Core** | <img src="https://skillicons.dev/icons?i=java,php,mysql,spring" /> |
-| **Frontend & UI** | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind" /> |
-| **Entorno & Herramientas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" /> |
+#### ⚙️ Capa Backend & Lógica de Negocio
+![Java](https://img.shields.io/badge/Java_SE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![POO](https://img.shields.io/badge/Paradigma-POO_%26_SOLID-00bfff?style=for-the-badge)
+![RESTful](https://img.shields.io/badge/Servicios-REST_APIs-2ea44f?style=for-the-badge)
+
+#### 🗄️ Persistencia, Modelado & Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Relational Design](https://img.shields.io/badge/Diseño-Modelado_Relacional-blueviolet?style=for-the-badge)
+![SQL Queries](https://img.shields.io/badge/Consultas-SQL_Optimizado-0969da?style=for-the-badge)
+
+#### 🎨 Frontend & Experiencia de Usuario
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### 🛠️ Herramientas & Control de Versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-### 📈 Gráfica de Actividad & Productividad
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=W1LSONN&theme=tokyo-night&hide_border=true&area=true&color=00e5ff" width="95%" alt="Actividad en Git" />
-</div>
-
----
-
-### 📊 Estadísticas y Racha
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=W1LSONN&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_bold=false" height="165" alt="Estadísticas de Wilson"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=W1LSONN&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff" height="165" alt="Lenguajes"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W1LSONN&theme=tokyonight&hide_border=true&stroke=00e5ff&ring=00e5ff&fire=00e5ff" alt="Racha de commits" />
-</div>
-
----
-
-### 🏆 Trofeos de Desarrollador
+### 🏆 Reconocimientos & Medallas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=W1LSONN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
@@ -93,29 +62,23 @@
 
 ---
 
-### 💡 Pensamiento del Día
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-### 📬 Conectemos y construyamos algo genial
+### 📬 Conectemos
 
 <p align="center">
   <a href="mailto:josephpillapa11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/W1LSONN" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-W1LSONN-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-<!-- FOOTER DECORATIVO -->
+<!-- FOOTER ONDAS -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050811,40:0d1b2a,100:00e5ff&height=90&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e2238,100:00bfff&height=100&section=footer" width="100%"/>
 </div>
